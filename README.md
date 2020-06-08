@@ -1,5 +1,7 @@
 # terminal-project-repo
 ## Hello Alchemy
+
 ** Asterix **
 
-__Underscore__
+__ Underscore __
+ 
