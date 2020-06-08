@@ -1,7 +1,7 @@
 # terminal-project-repo
 ## Hello Alchemy
 
-**Mold**
+**Bold**
 
 *Italic*
  
