@@ -1,4 +1,4 @@
 # terminal-project-repo
 ## Hello Alchemy
-*Asterix*
-_Underscore_
+** Asterix**
+__Underscore__
