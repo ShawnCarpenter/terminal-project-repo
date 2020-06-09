@@ -78,6 +78,6 @@ Use \\ to escape the following character.
 ## Emoji
 Github supports emoji in markdown but VS Code appears not to.
 
-:supervillain:
+# :supervillain:
 
 
