@@ -6,8 +6,8 @@
 
 _italic_
 
+1. Ordered list item 0
 1. Ordered list item 1
-1. Ordered list item 2
 
 * unordered list
 * unordered list
