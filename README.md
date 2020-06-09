@@ -44,6 +44,30 @@ _italic_
 * unordered list
 * unordered list
 ```
+
+Use \`\`\`HTML for HTML syntax highlighting.
+
+```HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
+```
+Use \`\`\`css for css syntax highlighting
+```css
+p {
+    color: white;
+    background-color: black;
+}
+```
+
 ## Escaping special characters.
 Use \\ to escape the following character.
 
