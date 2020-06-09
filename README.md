@@ -80,4 +80,10 @@ Github supports emoji in markdown but VS Code appears not to.
 
 # :supervillain:
 
+## Table
 
+| Table | example | column c | column d | Last column |
+|-------|---------|----------|----------|-------------|
+|       |         |          |          |             |
+|       |         |          |          |             |
+|       |         |          |          |             |
