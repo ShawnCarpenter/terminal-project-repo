@@ -60,8 +60,8 @@ The content of the document......
 
 </html>
 ```
-Use \`\`\`css for css syntax highlighting
-```css
+Use \`\`\`CSS for CSS syntax highlighting
+```CSS
 p {
     color: white;
     background-color: black;
